@@ -23,4 +23,4 @@ jobs:
         stale-issue-message: 'Closed due to no comments on this issue in the last 60 days'
         stale-issue-label: 'Automatically+Closed'
         any-of-issue-labels: 'Needs+More+Info'
-        days-before-stale: -1
+        days-before-stale: 1
